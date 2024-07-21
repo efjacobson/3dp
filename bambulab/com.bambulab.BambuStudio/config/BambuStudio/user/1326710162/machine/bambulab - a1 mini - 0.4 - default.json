@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "Bambu Lab A1 mini 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "bambulab - a1 mini - 0.4 - default",
+    "printer_settings_id": "bambulab - a1 mini - 0.4 - default",
+    "version": "1.9.0.16"
+}
